@@ -11,4 +11,4 @@ print('Para pagar a casa de R${:.2f} em {} anos a prestação ficará de R${:.2f
 if prestação <= mínimo:
     print('\033[0;35mEmpréstimo APROVADO!\033[m')
 else:
-    print('\033[0;31mEmpréstimo NEGADO!\033[m')
+    print('\033[1;31mEmpréstimo NEGADO!\033[m')
