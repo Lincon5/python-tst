@@ -14,5 +14,5 @@ for p in range(1, 6):
             menor = peso
 print('O maior peso foi de {}KG'.format(maior))
 print('O menor peso foi de {}KG'.format(menor))
-
+print('='*35)
 
