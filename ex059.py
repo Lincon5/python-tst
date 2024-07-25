@@ -18,6 +18,7 @@ while opção != 5:
     elif opção == 2:
         multiplicação = n1 * n2
         print('A multiplicação entre {} * {} é {}'.format(n1, n2, multiplicação))
+
     elif opção == 3:
             if n1 > n2:
                 maior = n1
